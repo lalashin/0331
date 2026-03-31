@@ -3,6 +3,7 @@
 ## 소개
 안녕하세요! Claude Code와 Cursor를 활용하는 개발자입니다.
 멀티캠퍼스에서 강의 중입니다.
+오늘은 6교시까지 수업합니다.
 
 ## 기술 스택
 - HTML / CSS / JavaScript
